@@ -10,11 +10,11 @@ We provide both a [dataset of Reddit posts and comments discussing moderators](h
 
 ### [Perceptions of Moderators as a Large-Scale Measure of Online Community Governance](https://arxiv.org/pdf/2401.16610)
 
-This paper describes our classification pipeline for determining a post or comment's [sentiment towards moderation](https://behavioral-data.github.io/moderator_discourse_public/) and analyzes the link between sentiment towards moderation and moderation staff itself.
+This CSCW 2025 paper describes our classification pipeline for determining a post or comment's [sentiment towards moderation](https://behavioral-data.github.io/moderator_discourse_public/) and analyzes the link between sentiment towards moderation and moderation staff itself.
 
-### [Reddit Rules and Rulers: Quantifying the Link Between Rules and Perceptions of Governance across Thousands of Communities](https://arxiv.org/pdf/2501.14163)
+### [Reddit Rules and Rulers: Quantifying the Link Between Rules and Perceptions of Governance across Thousands of Communities](https://ojs.aaai.org/index.php/ICWSM/article/view/35863)
 
-This paper describes our [taxonomy of rules](rule_data.md), rule classification pipeline, and [rule timeline analysis](rule_data.md). It analyzes the relationship between rules and governance perceptions in online communities.
+This ICWSM 2025 paper describes our [taxonomy of rules](rule_data.md), rule classification pipeline, and [rule timeline analysis](rule_data.md). It analyzes the relationship between rules and governance perceptions in online communities.
 
 # People
 
