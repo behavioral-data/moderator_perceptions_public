@@ -4,13 +4,13 @@ How do communities perceive their moderation? How do rules shape these perceptio
 
 # Dataset
 
-We provide both a [dataset of Reddit posts and comments](moderation_sentiment.md) and a [timeline of community rules](rule_data.md). These data include sentiment towards moderation annotations and rule classification labels, anonymized to protect user privacy.
+We provide both a [dataset of Reddit posts and comments discussing moderators](https://behavioral-data.github.io/moderator_discourse_public/) and a [timeline of community rules](rule_data.md). These data include sentiment towards moderation annotations and rule classification labels, anonymized to protect user privacy.
 
 # Papers
 
 ### [Perceptions of Moderators as a Large-Scale Measure of Online Community Governance](https://arxiv.org/pdf/2401.16610)
 
-This paper describes our classification pipeline for determining a post or comment's [sentiment towards moderation](moderation_sentiment.md) and analyzes the link between sentiment towards moderation and moderation staff itself.
+This paper describes our classification pipeline for determining a post or comment's [sentiment towards moderation](https://behavioral-data.github.io/moderator_discourse_public/) and analyzes the link between sentiment towards moderation and moderation staff itself.
 
 ### [Reddit Rules and Rulers: Quantifying the Link Between Rules and Perceptions of Governance across Thousands of Communities](https://arxiv.org/pdf/2501.14163)
 
